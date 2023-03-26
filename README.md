@@ -8,6 +8,7 @@ Our project aims to create a sustainable Road Planning system which aims to chec
 https://youtu.be/P73OS4Aaz14
 
 # Presentaion Link:
+https://docs.google.com/presentation/d/1lN_y_eUEuUy1Sf8skD6cn5_AtWP1Iebm/edit#slide=id.p1
 
 # Table Of Contents
 1. Next Best Path Calculator
